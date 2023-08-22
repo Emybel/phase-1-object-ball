@@ -23,12 +23,12 @@ in Canvas.
 
 Let's get started!
 
-### Part 1: Building the Object
+  ### Part 1: Building the Object
 
-The first function you will define is called `gameObject`. This function
-contains and returns an object nested in the following manner:
+  The first function you will define is called `gameObject`. This function
+  contains and returns an object nested in the following manner:
 
-- The top level of the object has two keys: `"home"`, for the home team, and
+  - The top level of the object has two keys: `"home"`, for the home team, and
   `"away"`, for the away team.
 - The values of the `"home"` and `"away"` keys are objects too. These objects
   have the following keys:
